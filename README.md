@@ -1,1 +1,1 @@
-# A complete E-commerce application build using MERN stack.
+# A complete E-commerce application built using MERN stack.
